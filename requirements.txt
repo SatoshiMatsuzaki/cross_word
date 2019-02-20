@@ -1,0 +1,6 @@
+django=2.1.4
+flake8==3.5.0
+jupyter==1.0.0
+mecab-python3==0.7
+pytest==3.6.3
+python-dateutil==2.7.3
